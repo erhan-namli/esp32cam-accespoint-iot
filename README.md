@@ -43,5 +43,22 @@ void loop(){
 
 ## Connect to Acces Point with ESP32-CAM 
 
+```C++
+#include <WiFi.h>
 
-## Streaming On Web Server
+const char* ssid = "ESP8266-Access-Point";
+const char* password = "123456789";
+// Declaring which Access Point to connect
+void setup() {
+  
+ WiFi.begin(ssid, password); 
+}
+
+void loop() {
+  delay(1);
+}
+```
+
+## Camera Live Stream with ESP32-CAM on Access Point
+
+
