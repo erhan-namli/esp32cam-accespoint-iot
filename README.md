@@ -64,4 +64,4 @@ void loop() {
 - You can find the codes for ESP32 in the Camera Web Server folder.
 - Don't forget to change the SSID and Password according to your project if you want.
 
-
+![Screenshot](real.jpg)
