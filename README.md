@@ -61,4 +61,7 @@ void loop() {
 
 ## Camera Live Stream with ESP32-CAM on Access Point
 
+- You can find the codes for ESP32 in the Camera Web Server folder.
+- Don't forget to change the SSID and Password according to your project if you want.
+
 
