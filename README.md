@@ -1,4 +1,6 @@
 # IoT-AccesPoint-ESP32CAM
+
+In this repository, I tried to show you how to broadcast wireless live video recording in a simple way. In this way, a method where we can obtain wireless images for image processing in mobile systems, for example, in systems that operate independently of the internet network.
  
 ![Screenshot](accespointmethod.png)
 
@@ -64,4 +66,4 @@ void loop() {
 - You can find the codes for ESP32 in the Camera Web Server folder.
 - Don't forget to change the SSID and Password according to your project if you want.
 
-![Screenshot](real.jpg)
+![Screenshot](system.jpg)
